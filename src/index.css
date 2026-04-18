@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Outfit:wght@300;400;500;600;700&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+  --font-display: "Outfit", sans-serif;
+  
+  --color-agri-green: #2D5A27;
+  --color-agri-gold: #D4AF37;
+  --color-agri-earth: #4B3621;
+}
+
+@layer base {
+  body {
+    @apply font-sans text-slate-900 bg-white antialiased;
+  }
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-display;
+  }
+}
+
+.glass-nav {
+  @apply bg-white/80 backdrop-blur-md border-b border-slate-200;
+}
+
+.agri-gradient {
+  background: linear-gradient(135deg, #2D5A27 0%, #1a3a16 100%);
+}
