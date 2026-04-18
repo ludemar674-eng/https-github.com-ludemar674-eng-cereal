@@ -22,6 +22,6 @@ Se você estiver vendo a mensagem *"The provided GitHub repository does not cont
 2. **Repositório Vazio**: Certifique-se de que os arquivos foram enviados para o GitHub. Se você acabou de criar o projeto, aguarde a sincronização inicial.
 3. **Reconectar**: Se o problema persistir, tente desconectar o repositório no Vercel e conectá-lo novamente, garantindo que o branch padrão do GitHub seja selecionado.
 
----
+### Configuração de Branch para Deploy
 
-Desenvolvido para Cerealista Itararé Ltda.
+*Nota: Este projeto utiliza a branch **master** para o deploy. Certifique-se de configurar a "Production Branch" no Vercel como **master** em vez de main.*
