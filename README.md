@@ -1,20 +1,27 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Cerealista Itararé
 
-# Run and deploy your AI Studio app
+Site oficial da Cerealista Itararé Ltda. Especializada no comércio internacional de grãos e logística.
 
-This contains everything you need to run your app locally.
+## Tecnologias Utilizadas
 
-View your app in AI Studio: https://ai.studio/apps/8bb4aa89-7cf0-4c14-a0dd-50d0cfd16bec
+- **React 19**
+- **Vite**
+- **Tailwind CSS 4**
+- **Motion** (para animações)
+- **Lucide React** (ícones)
 
-## Run Locally
+## Deploy no Vercel
 
-**Prerequisites:**  Node.js
+Este projeto está configurado para ser implantado no Vercel. 
 
+### Possíveis problemas de "Branch ou Commit não encontrado"
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+Se você estiver vendo a mensagem *"The provided GitHub repository does not contain the requested branch or commit reference"*, verifique o seguinte:
+
+1. **Nome da Branch**: O Vercel pode estar tentando fazer o deploy de uma branch chamada `main`, mas o seu repositório pode estar usando `master` (ou vice-versa). No painel do Vercel, vá em **Settings > Git** e verifique se a "Production Branch" está correta.
+2. **Repositório Vazio**: Certifique-se de que os arquivos foram enviados para o GitHub. Se você acabou de criar o projeto, aguarde a sincronização inicial.
+3. **Reconectar**: Se o problema persistir, tente desconectar o repositório no Vercel e conectá-lo novamente, garantindo que o branch padrão do GitHub seja selecionado.
+
+---
+
+Desenvolvido para Cerealista Itararé Ltda.
