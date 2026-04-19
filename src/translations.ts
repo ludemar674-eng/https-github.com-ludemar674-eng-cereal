@@ -42,27 +42,27 @@ export const translations = {
         {
           name: "Café",
           description: "Grãos de café selecionados das melhores regiões produtoras do Brasil, com diversos perfis de torra e aroma.",
-          image: "/images/cafe.png",
+          image: "https://lh3.googleusercontent.com/u/0/d/1LF-PhioCVqS4vJK_5SUCVDT9UOJyfOV_",
         },
         {
           name: "Açúcar",
           description: "Açúcar ICUMSA 45 e VHP, diretamente das usinas brasileiras para os principais portos do mundo.",
-          image: "/images/acucar.png",
+          image: "https://lh3.googleusercontent.com/u/0/d/1VVpJUC767dwKYVivjetXUf_8IRRtuZC_",
         },
         {
           name: "Milho",
           description: "Milho de alta qualidade para ração animal e consumo humano, proveniente das melhores safras do Paraná.",
-          image: "/images/milho.png",
+          image: "https://lh3.googleusercontent.com/u/0/d/1LF-PhioCVqS4vJK_5SUCVDT9UOJyfOV_",
         },
         {
           name: "Farelo de Soja",
           description: "Farelo de soja com alto teor proteico, ideal para nutrição animal de alta performance.",
-          image: "/images/soja.png",
+          image: "https://lh3.googleusercontent.com/u/0/d/1LF-PhioCVqS4vJK_5SUCVDT9UOJyfOV_",
         },
         {
           name: "Madeira (Pellets)",
           description: "Pellets de madeira sustentáveis para aquecimento e uso industrial, com alto poder calorífico.",
-          image: "/images/madeira.png",
+          image: "https://lh3.googleusercontent.com/u/0/d/1UuGzfm7wKMOAeCQiXKEVaLZcKDNqydJE",
         }
       ]
     },
@@ -142,27 +142,27 @@ export const translations = {
         {
           name: "Coffee",
           description: "Selected coffee beans from Brazil's best producing regions, with various roast and aroma profiles.",
-          image: "/images/cafe.png",
+          image: "https://lh3.googleusercontent.com/u/0/d/1LF-PhioCVqS4vJK_5SUCVDT9UOJyfOV_",
         },
         {
           name: "Sugar",
           description: "ICUMSA 45 and VHP sugar, directly from Brazilian mills to the world's main ports.",
-          image: "/images/acucar.png",
+          image: "https://lh3.googleusercontent.com/u/0/d/1VVpJUC767dwKYVivjetXUf_8IRRtuZC_",
         },
         {
           name: "Corn",
           description: "High-quality corn for animal feed and human consumption, from Paraná's best harvests.",
-          image: "/images/milho.png",
+          image: "https://lh3.googleusercontent.com/u/0/d/1LF-PhioCVqS4vJK_5SUCVDT9UOJyfOV_",
         },
         {
           name: "Soybean Meal",
           description: "High-protein soybean meal, ideal for high-performance animal nutrition.",
-          image: "/images/soja.png",
+          image: "https://lh3.googleusercontent.com/u/0/d/1LF-PhioCVqS4vJK_5SUCVDT9UOJyfOV_",
         },
         {
           name: "Wood (Pellets)",
           description: "Sustainable wood pellets for heating and industrial use, with high calorific value.",
-          image: "/images/madeira.png",
+          image: "https://lh3.googleusercontent.com/u/0/d/1UuGzfm7wKMOAeCQiXKEVaLZcKDNqydJE",
         }
       ]
     },
@@ -242,27 +242,27 @@ export const translations = {
         {
           name: "Café",
           description: "Granos de café seleccionados de las mejores regiones productoras de Brasil, con diversos perfiles de tueste y aroma.",
-          image: "/images/cafe.png",
+          image: "https://lh3.googleusercontent.com/u/0/d/1LF-PhioCVqS4vJK_5SUCVDT9UOJyfOV_",
         },
         {
           name: "Azúcar",
           description: "Azúcar ICUMSA 45 e VHP, directamente de los ingenios brasileños a los principais puertos del mundo.",
-          image: "/images/acucar.png",
+          image: "https://lh3.googleusercontent.com/u/0/d/1VVpJUC767dwKYVivjetXUf_8IRRtuZC_",
         },
         {
           name: "Maíz",
           description: "Maíz de alta qualidade para alimentación animal e consumo humano, proveniente de las mejores cosechas de Paraná.",
-          image: "/images/milho.png",
+          image: "https://lh3.googleusercontent.com/u/0/d/1LF-PhioCVqS4vJK_5SUCVDT9UOJyfOV_",
         },
         {
           name: "Harina de Soja",
           description: "Harina de soja con alto contenido proteico, ideal para la nutrición animal de alto rendimiento.",
-          image: "/images/soja.png",
+          image: "https://lh3.googleusercontent.com/u/0/d/1LF-PhioCVqS4vJK_5SUCVDT9UOJyfOV_",
         },
         {
           name: "Madera (Pellets)",
           description: "Pellets de madera sostenibles para calefacción y uso industrial, con alto poder calorífico.",
-          image: "/images/madeira.png",
+          image: "https://lh3.googleusercontent.com/u/0/d/1UuGzfm7wKMOAeCQiXKEVaLZcKDNqydJE",
         }
       ]
     },

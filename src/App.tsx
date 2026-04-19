@@ -18,6 +18,12 @@ import {
 import { useState, useEffect } from "react";
 import { translations, Language } from "./translations";
 
+// Links de exemplo (substitua pelos seus links reais ou IDs do Drive se desejar)
+const IMAGES = {
+  hero: "https://lh3.googleusercontent.com/u/0/d/1b2sN43G0yybaoyqMgFWcFHwRfAWYiI0w",
+  about: "https://lh3.googleusercontent.com/u/0/d/1QJwe5rlVl0DQ0QS3VJqt6tuV9CC0vz3q",
+};
+
 const STATS = [
   { labelKey: "exp", value: "10+" },
   { labelKey: "countries", value: "15+" },
@@ -128,7 +134,7 @@ export default function App() {
       <section id="home" className="relative h-screen flex items-center overflow-hidden">
         <div className="absolute inset-0 z-0">
           <img 
-            src="/images/capa.png" 
+            src={IMAGES.hero} 
             alt="Agribusiness Background"
             className="w-full h-full object-cover"
             referrerPolicy="no-referrer"
@@ -197,7 +203,7 @@ export default function App() {
             >
               <div className="aspect-square rounded-3xl overflow-hidden shadow-2xl">
                 <img 
-                  src="/images/meio.png" 
+                  src={IMAGES.about} 
                   alt="Agriculture Field"
                   className="w-full h-full object-cover"
                   referrerPolicy="no-referrer"
