@@ -110,8 +110,8 @@ export const translations = {
     },
     hero: {
       tag: "Global Commodity Trading",
-      title: "Connecting Brazilian Grains to the ",
-      titleAccent: "World.",
+      title: "Connecting Brazilian Grains to the World.",
+      titleAccent: "",
       desc: "Cerealista Itararé is your strategic partner in exporting high-quality commodities. Reliability, efficiency, and global reach.",
       ctaProducts: "Our Products",
       ctaContact: "Contact Us",
@@ -210,8 +210,8 @@ export const translations = {
     },
     hero: {
       tag: "Comercio Global de Commodities",
-      title: "Conectando Granos Brasileños al ",
-      titleAccent: "Mundo.",
+      title: "Conectando Granos Brasileños al Mundo.",
+      titleAccent: "",
       desc: "Cerealista Itararé es su socio estratégico en la exportación de commodities de alta calidad. Confiabilidad, eficiencia y alcance global.",
       ctaProducts: "Nuestros Productos",
       ctaContact: "Contáctenos",
@@ -237,7 +237,7 @@ export const translations = {
     products: {
       tag: "Nuestro Portafolio",
       title: "Commodities Premium",
-      desc: "Buscamos solo los mejores granos de productores seleccionados en el sur de Brasil, garantizando una calidad constante para todos nuestros socios internacionales.",
+      desc: "Buscamos solo los mejores granos de productores seleccionados en el sur de Brasil, garantizando una calidad constante para todos nos socios internacionales.",
       items: [
         {
           name: "Café",
@@ -246,12 +246,12 @@ export const translations = {
         },
         {
           name: "Azúcar",
-          description: "Azúcar ICUMSA 45 y VHP, directamente de los ingenios brasileños a los principais puertos del mundo.",
+          description: "Azúcar ICUMSA 45 e VHP, directamente de los ingenios brasileños a los principais puertos del mundo.",
           image: "/images/acucar.png",
         },
         {
           name: "Maíz",
-          description: "Maíz de alta calidad para alimentación animal e consumo humano, proveniente de las mejores cosechas de Paraná.",
+          description: "Maíz de alta qualidade para alimentación animal e consumo humano, proveniente de las mejores cosechas de Paraná.",
           image: "/images/milho.png",
         },
         {
@@ -291,14 +291,14 @@ export const translations = {
         email: "Correo Electrónico",
         message: "Mensaje",
         placeholder: "Cuéntenos sobre sus necesidades...",
-        btn: "Enviar Solicitud",
+        btn: "Enviar Solicitação",
       }
     },
     footer: {
       desc: "Socio estratégico para la exportación de commodities agrícolas brasileños. Conectando la producción de calidad con las demandas globales.",
       links: "Enlaces Rápidos",
       legal: "Legal",
-      rights: "Todos los derechos reservados.",
+      rights: "Todos os direitos reservados.",
     }
   }
 };
